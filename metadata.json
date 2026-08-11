@@ -1,0 +1,6 @@
+{
+  "name": "BillVault",
+  "description": "A modern Receipt & Bill Manager application that allows users to create, manage, edit, delete, track, and organize their bills and receipts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
